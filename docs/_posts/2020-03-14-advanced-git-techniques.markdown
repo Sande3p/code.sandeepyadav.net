@@ -19,7 +19,7 @@ Example
 `git config --global --edit`  //opens editor to update file
 
 ### Listing all configs
-`git config --list --show-origin\`
+`git config --list --show-origin`
 
 ### Showing code diff
 `git diff`
